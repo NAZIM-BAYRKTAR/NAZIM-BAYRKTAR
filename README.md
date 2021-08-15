@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NAZIM-BAYRKTAR
+- 👋 Hi, I’m @NAZIM-BAYRAKTAR
 - 👀 I’m interested in FRONTEND DEVELOPER (HTML-CSS-JAVASCRİPT)
 - 🌱 I’m currently learning (mechatronic engineering and front end)
 - 💞️ I’m looking to collaborate on ...
